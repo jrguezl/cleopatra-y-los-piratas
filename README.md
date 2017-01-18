@@ -1,4 +1,4 @@
 # Cleopatra y Los Piratas
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+La historia que recuerdo sobre dos chicas en el mar
 
